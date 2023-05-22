@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"J:/Productivity/UE/Procedural_Biped/Content/ProceduralWalkTutorial/Javin_ControlRig.uasset",
+				"J:/Productivity/UE/Procedural_Biped/Content/ProceduralWalkTutorial/Tut_Char.uasset",
 				"C:/Users/junej/Desktop/Procedural/UE/Procedural_Biped/Content/ProceduralWalkTutorial/Character/Tut_SK_Mannequin_LOD0.uasset",
 				"C:/Users/junej/Desktop/Procedural/UE/Procedural_Biped/Content/ProceduralWalkTutorial/Character/Materials/M_Male_Body.uasset",
 				"C:/Users/junej/Desktop/Procedural/UE/Procedural_Biped/Content/ProceduralWalkTutorial/Character/Materials/M_UE4Man_ChestLogo.uasset",
